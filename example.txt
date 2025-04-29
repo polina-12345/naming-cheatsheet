@@ -1,1 +1,1 @@
-Line 1 changed in branch2 v1
+Line 1 changed in branch2 v2

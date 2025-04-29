@@ -1,1 +1,1 @@
-Line 1 changed in branch2 v3
+Line 1 merged: branch2 v3 + branch1 v3
